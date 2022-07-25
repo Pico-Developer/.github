@@ -44,13 +44,3 @@ Basic samples cover basic features achieved through the Pico Unity Integration S
 Access samples [here]().
 
 ## Advanced Sample
-
-### Auto show
-
-**Development Environment**
-| Name  | Version    |
-| ----  |  ----      |
-| Unity Editor | `2020.3.35f` |
-| Pico Unity Integration SDK | `2.0.5` |
-
-Access samples [here]().
