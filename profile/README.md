@@ -28,7 +28,7 @@ The **Get Started** sample sets you up to create a basic scene using the Pico Un
 | Pico Unity Integration SDK | 2.0.5 |
 | XR Interaction Toolkit | 2.1.0 |
 
-Access the sample [here]().
+Access the sample [here](https://github.com/Pico-Developer/Getstarted-Unity).
 
 ## Basic Sample
 Basic samples cover basic features achieved through the Pico Unity Integration SDK and the Unity XR Interaction Toolkit. You need to import the above two dependencies into your project to enable the import and running of a corresponding ".unitypackage".
