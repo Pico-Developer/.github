@@ -1,7 +1,7 @@
 ![image](https://github.com/Pico-Developer/.github/blob/main/images/logo.png?raw=true)
 
 # Pico Developer
-Welcome to Pico Developer! This is Pico's offcial repository for open-source samples covering the use of basic features, rendering effects, performance display, interaction examples, etc. These samples aim to help you quickly get started on app development for Pico VR headsets with Unity, Unreal, Native, and WebXR. We will continue to maintain and update the samples for a better development experience.
+Welcome to Pico Developer! This is Pico's offcial repository for open-source samples covering the use of basic SDK features, rendering effects, performance display, interaction examples, etc. These samples aim to help you quickly get started on app development for Pico VR headsets with Unity, Unreal, Native, and WebXR. We will continue to maintain and update the samples for a better development experience.
 
 For more information, visit the [Pico Developer Platform](https://developer.pico-interactive.com/).
 
