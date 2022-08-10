@@ -60,6 +60,13 @@ The **Unity Sample** includes samples for app development using the Unity Engine
 ## Get Started
 The **Get Started** sample sets you up to create a basic scene using the Pico Unreal Integration SDK. The sample includes the use of SDK features, the basic configurations, and a scene containing the HMD and controller settings. For instructions on how to build the scene, refer to the [Quickstart Guide](https://developer-global.pico-interactive.com/document/unreal).
 
+**Development Environment**
+
+| Name  | Version    |
+| ----  |  ----      |
+| Unreal Engine | 4.24-4.27 |
+| Pico Unity Integration SDK | ≥2.0.5 |
+
 Access samples [here](https://github.com/Pico-Developer/Getstarted-Unreal).
 
 ## Basic Sample
