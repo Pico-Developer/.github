@@ -1,4 +1,4 @@
-![image](https://github.com/Pico-Developer/.github/blob/main/images/logo.png?raw=true)
+![image](https://github.com/Pico-Developer/.github/blob/main/images/logo.png)
 
 # Pico Developer
 Welcome to Pico Developer! This is Pico's offcial repository for open-source samples covering the use of basic SDK features, rendering effects, performance display, interaction examples, etc. These samples aim to help you quickly get started on app development for Pico VR headsets with Unity, Unreal, Native, and WebXR. We will continue to maintain and update the samples for a better development experience.
@@ -48,6 +48,8 @@ Access samples [here](https://github.com/Pico-Developer/BasicSample-Unity).
 ### CarExhibition
 
 This **CarExhibition Show** sample uses URP, Multiview environment, double resolution rendering, models from SketchFab licensed models, and a particle effect added to the scene to enhance the sense of space.
+
+![image](https://raw.githubusercontent.com/Pico-Developer/.github/main/images/car.jpg)
 
 Access samples [here](https://github.com/Pico-Developer/CarExhibition-Unity).
 
