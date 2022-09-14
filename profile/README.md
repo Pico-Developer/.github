@@ -43,6 +43,10 @@ Basic samples cover basic features achieved through the Pico Unity Integration S
 
 Access samples [here](https://github.com/Pico-Developer/BasicSample-Unity).
 
+## Platform Sample
+This samples demonstrating the usage of the Pico Platform.
+Access samples [here](https://github.com/Pico-Developer/PlatformSample-Unity).
+
 ## Advanced Sample
 
 ### CarExhibition
@@ -81,3 +85,7 @@ Basic samples cover basic features achieved through the Pico Unreal Integration 
 | Interaction |   Includes basic interaction samples for locomotion, teleportation, object gripping, and shooting.(This Sample only supports UE4.27 and above versions, because it uses the Epic recommended interaction framework as the basis)  |
 
 Access samples [here](https://github.com/Pico-Developer/BasicSample-Unreal/).
+
+## Platform Sample
+This samples demonstrating the usage of the Pico Platform.
+Access samples [here](https://github.com/Pico-Developer/PlatformSample-Unreal).
