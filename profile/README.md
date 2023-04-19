@@ -7,12 +7,70 @@ For more information, visit the [Pico Developer Platform](https://developer.pico
 
 ## SDK & Resources
 
-|Platform |  SDK | Documentation | API Reference|
-|  ----   | ---- |      ----     |     ----     |
-| Unity   | [Pico Unity Integration SDK](https://developer-global.pico-interactive.com/sdk?deviceId=1&platformId=1&itemId=12) | [Documentation](https://developer-global.pico-interactive.com/document/unity)|<ul><li>[XR](https://pdocor.pico-interactive.com/reference/unity/xr/2.05/)</li> <li>[Platform](https://pdocor.pico-interactive.com/reference/unity/platform/1.0/)</li></ul>|
-| Unreal  | [Pico Unreal Integration SDK](https://developer-global.pico-interactive.com/sdk?deviceId=1&platformId=2&itemId=13)| [Documentation](https://developer-global.pico-interactive.com/document/unreal)|<ul><li>[XR](https://pdocor.pico-interactive.com/reference/unreal/xr/12832/240774/)</li> <li>[Platform](https://pdocor.pico-interactive.com/reference/unreal/platform/1.0/)</li></ul>|
-| Native  | [Android Native XR SDK](https://developer-global.pico-interactive.com/sdk?deviceId=1&platformId=3&itemId=16)| [Documentation](https://developer-global.pico-interactive.com/docs/native/en/13158/android-native-xr-quickstart/#overview)|[API Reference](https://pdocor.pico-interactive.com/reference/native/xr/2.0.1/)|
-| Native  | [OpenXR Mobile SDK](https://developer-global.pico-interactive.com/sdk?deviceId=1&platformId=3&itemId=11)| [Documentation](https://developer-global.pico-interactive.com/docs/native/en/13158/openxr-mobile-sdk-overview/#introduction-to-openxr)|/|
+<table>
+    <thead>
+        <tr>
+            <th>Platform</th>
+            <th>SDK</th>
+            <th>Documentation</th>
+            <th>API Reference</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=1>Unity</td>
+            <td><a href="https://developer-global.pico-interactive.com/sdk?deviceId=1&platformId=1&itemId=12">Pico Unity Integration SDK</a></td>
+            <td><a href="https://developer-global.pico-interactive.com/document/unity">Documentation</a></td>
+            <td>
+                <ul>
+                    <li><a href="https://pdocor.pico-interactive.com/reference/unity/xr/2.05/">XR</a></li>
+                    <li><a href="https://pdocor.pico-interactive.com/reference/unity/platform/1.0/">Platform</a></li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan=1>Unreal</td>
+            <td><a href="https://developer-global.pico-interactive.com/sdk?deviceId=1&platformId=2&itemId=13">Pico Unreal Integration SDK</a></td>
+            <td><a href="https://developer-global.pico-interactive.com/document/unreal">Documentation</a></td>
+            <td>
+                <ul>
+                    <li><a href="https://pdocor.pico-interactive.com/reference/unreal/xr/12832/240774/">XR</a></li>
+                    <li><a href="https://pdocor.pico-interactive.com/reference/unreal/platform/1.0/">Platform</a></li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan=2>Native</td>
+            <td><a href="https://developer-global.pico-interactive.com/sdk?deviceId=1&platformId=3&itemId=11">OpenXR Mobile SDK</a></td>
+            <td><a href="https://developer-global.pico-interactive.com/docs/native/en/13158/openxr-mobile-sdk-overview/#introduction-to-openxr">Documentation</a></td>
+            <td>/</td>
+        </tr>
+        <tr>
+            <td><a href="https://developer-global.pico-interactive.com/sdk?deviceId=1&platformId=3&itemId=16">Android Native XR SDK</a></td>
+            <td><a href="https://developer-global.pico-interactive.com/docs/native/en/13158/android-native-xr-quickstart/#overview">Documentation</a></td>
+            <td>
+                <ul>
+                    <li><a href="https://pdocor.pico-interactive.com/reference/native/xr/2.0.1/">API Reference</a></li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan=1>Web</td>
+            <td>
+              <ul>
+                <li>WebXR SDK (coming soon)</li>
+                <li><a href="https://github.com/Pico-Developer/awesome-webxr-development">Awesome WebXR Development</a></li>
+              </ul>
+            </td>
+            <td colspan=2>
+              <ul>
+                <li>Documentation (coming soon)</li>
+                <li><a href="https://developer-cn.pico-interactive.com/document/web/introduce-xr/">中文文档</a></li>
+              </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 # Unity Sample
 The **Unity Sample** includes samples for app development using the Unity Engine and the Pico Unity Integration SDK. "Unity 2020.3 LTS" is the version referenced in the samples while the samples can also be run on "Unity 2019.4 LTS" or later.
@@ -91,3 +149,7 @@ Access samples [here](https://github.com/Pico-Developer/BasicSample-Unreal/).
 This samples demonstrating the usage of the Pico Platform.
 
 Access samples [here](https://github.com/Pico-Developer/PlatformSample-Unreal).
+
+# WebXR Sample
+
+Coming soon...
