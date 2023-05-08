@@ -1,9 +1,9 @@
 ![image](https://github.com/Pico-Developer/.github/blob/main/images/logo.png)
 
-# Pico Developer
-Welcome to Pico Developer! This is Pico's offcial repository for open-source samples covering the use of basic SDK features, rendering effects, performance display, interaction examples, etc. These samples aim to help you quickly get started on app development for Pico VR headsets with Unity, Unreal, Native, and WebXR. We will continue to maintain and update the samples for a better development experience.
+# PICO Developer
+Welcome to PICO Developer! This is PICO's offcial repository for open-source samples covering the use of basic SDK features, rendering effects, performance display, interaction examples, etc. These samples aim to help you quickly get started on app development for PICO VR headsets with Unity, Unreal, Native, and WebXR. We will continue to maintain and update the samples for a better development experience.
 
-For more information, visit the [Pico Developer Platform](https://developer.pico-interactive.com/).
+For more information, visit the [PICO Developer Platform](https://developer.pico-interactive.com/).
 
 ## SDK & Resources
 
@@ -19,7 +19,7 @@ For more information, visit the [Pico Developer Platform](https://developer.pico
     <tbody>
         <tr>
             <td rowspan=1>Unity</td>
-            <td><a href="https://developer-global.pico-interactive.com/sdk?deviceId=1&platformId=1&itemId=12">Pico Unity Integration SDK</a></td>
+            <td><a href="https://developer-global.pico-interactive.com/sdk?deviceId=1&platformId=1&itemId=12">PICO Unity Integration SDK</a></td>
             <td><a href="https://developer-global.pico-interactive.com/document/unity">Documentation</a></td>
             <td>
                 <ul>
@@ -30,7 +30,7 @@ For more information, visit the [Pico Developer Platform](https://developer.pico
         </tr>
         <tr>
             <td rowspan=1>Unreal</td>
-            <td><a href="https://developer-global.pico-interactive.com/sdk?deviceId=1&platformId=2&itemId=13">Pico Unreal Integration SDK</a></td>
+            <td><a href="https://developer-global.pico-interactive.com/sdk?deviceId=1&platformId=2&itemId=13">PICO Unreal Integration SDK</a></td>
             <td><a href="https://developer-global.pico-interactive.com/document/unreal">Documentation</a></td>
             <td>
                 <ul>
@@ -73,36 +73,36 @@ For more information, visit the [Pico Developer Platform](https://developer.pico
 </table>
 
 # Unity Sample
-The **Unity Sample** includes samples for app development using the Unity Engine and the Pico Unity Integration SDK. "Unity 2020.3 LTS" is the version referenced in the samples while the samples can also be run on "Unity 2019.4 LTS" or later.
+The **Unity Sample** includes samples for app development using the Unity Engine and the PICO Unity Integration SDK. "Unity 2020.3 LTS" is the version referenced in the samples while the samples can also be run on "Unity 2019.4 LTS" or later.
 
 ## Get Started
-The **Get Started** sample sets you up to create a basic scene using the Pico Unity Integration SDK and the Unity XR Interaction Toolkit. The sample includes the use of SDK features, the basic configurations, and a scene containing the HMD and controller settings. For instructions on how to build the scene, refer to the [Quickstart Guide](https://developer-global.pico-interactive.com/document/unity).
+The **Get Started** sample sets you up to create a basic scene using the PICO Unity Integration SDK and the Unity XR Interaction Toolkit. The sample includes the use of SDK features, the basic configurations, and a scene containing the HMD and controller settings. For instructions on how to build the scene, refer to the [Quickstart Guide](https://developer-global.pico-interactive.com/document/unity).
 
 **Development Environment**
 
 | Name  | Version    |
 | ----  |  ----      |
 | Unity Editor | 2020.3.35f |
-| Pico Unity Integration SDK | 2.0.5 |
+| PICO Unity Integration SDK | 2.0.5 |
 | XR Interaction Toolkit | 2.1.0 |
 
 Access the sample [here](https://github.com/Pico-Developer/Getstarted-Unity).
 
 ## Basic Sample
-Basic samples cover basic features achieved through the Pico Unity Integration SDK and the Unity XR Interaction Toolkit. You need to import the above two dependencies into your project to enable the import and running of a corresponding ".unitypackage".
+Basic samples cover basic features achieved through the PICO Unity Integration SDK and the Unity XR Interaction Toolkit. You need to import the above two dependencies into your project to enable the import and running of a corresponding ".unitypackage".
 
 **Sample List**
 
 | Feature | Description |
 | -----   |    ----     |
-| Controller   |  For how to use the Pico controller and set up controller vibration. |
-| UI      |  For how to interact with Unity's UI using the rays. |
+| Controller   |  For how to use controllers and set up controller vibration. |
+| UI      |  For how to interact with Unity's UI using the ray. |
 | Interaction |   Includes basic interaction samples for locomotion, teleportation, object gripping, and shooting.  |
 
 Access samples [here](https://github.com/Pico-Developer/BasicSample-Unity).
 
 ## Platform Sample
-This samples demonstrating the usage of the Pico Platform.
+These samples show how to use PICO platform services.
 
 Access samples [here](https://github.com/Pico-Developer/PlatformSample-Unity).
 
@@ -118,35 +118,35 @@ Access samples [here](https://github.com/Pico-Developer/CarExhibition-Unity).
 
 
 # Unreal Sample
-The **Unity Sample** includes samples for app development using the Unity Engine and the Pico Unreal Integration SDK. Samples can be run on "Unreal 4.24
+**Unreal Sample** provides samples for app development using the Unreal Engine and the PICO Unreal Integration SDK. Samples can be run on "Unreal 4.24
 " or later.
 
 
 ## Get Started
-The **Get Started** sample sets you up to create a basic scene using the Pico Unreal Integration SDK. The sample includes the use of SDK features, the basic configurations, and a scene containing the HMD and controller settings. For instructions on how to build the scene, refer to the [Quickstart Guide](https://developer-global.pico-interactive.com/document/unreal).
+The **Get Started** sample sets you up to create a basic scene using the PICO Unreal Integration SDK. The sample includes the use of SDK features, the basic configurations, and a scene containing the HMD and controller settings. For instructions on how to build the scene, refer to the [Quickstart Guide](https://developer-global.pico-interactive.com/document/unreal).
 
 **Development Environment**
 
 | Name  | Version    |
 | ----  |  ----      |
 | Unreal Engine | 4.24-4.27 |
-| Pico Unity Integration SDK | ≥2.0.5 |
+| PICO Unreal Integration SDK | ≥2.0.5 |
 
 Access samples [here](https://github.com/Pico-Developer/Getstarted-Unreal).
 
 ## Basic Sample
-Basic samples cover basic features achieved through the Pico Unreal Integration SDK.
+Basic samples cover basic features achieved through the PICO Unreal Integration SDK.
 
 | Feature | Description |
 | -----   |    ----     |
-| Controller   |  For how to use the Pico controller and set up controller vibration. |
+| Controller   |  For how to use the PICO controller and set up controller vibration. |
 | UI      |  For how to interact with Unity's UI using the rays. |
 | Interaction |   Includes basic interaction samples for locomotion, teleportation, object gripping, and shooting.(This Sample only supports UE4.27 and above versions, because it uses the Epic recommended interaction framework as the basis)  |
 
 Access samples [here](https://github.com/Pico-Developer/BasicSample-Unreal/).
 
 ## Platform Sample
-This samples demonstrating the usage of the Pico Platform.
+This samples demonstrating the usage of PICO platform services.
 
 Access samples [here](https://github.com/Pico-Developer/PlatformSample-Unreal).
 
