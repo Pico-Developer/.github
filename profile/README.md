@@ -76,15 +76,7 @@ For more information, visit the [PICO Developer Platform](https://developer.pico
 The **Unity Sample** includes samples for app development using the Unity Engine and the PICO Unity Integration SDK. "Unity 2020.3 LTS" is the version referenced in the samples while the samples can also be run on "Unity 2019.4 LTS" or later.
 
 ## Get Started
-The **Get Started** sample sets you up to create a basic scene using the PICO Unity Integration SDK and the Unity XR Interaction Toolkit. The sample includes the use of SDK features, the basic configurations, and a scene containing the HMD and controller settings. For instructions on how to build the scene, refer to the [Quickstart Guide](https://developer-global.pico-interactive.com/document/unity).
-
-**Development Environment**
-
-| Name  | Version    |
-| ----  |  ----      |
-| Unity Editor | 2020.3.35f |
-| PICO Unity Integration SDK | 2.0.5 |
-| XR Interaction Toolkit | 2.1.0 |
+The GetStartedDemo includes the indoor and outdoor scenes. You can experience the following in the demo: changing your view, locomotion, teleportation, and switching between the indoor and outdoor scenes. For information on the demo, refer to [this article](https://developer-global.pico-interactive.com/en/document/unity/get-started-demo/).
 
 Access the sample [here](https://github.com/Pico-Developer/Getstarted-Unity).
 
