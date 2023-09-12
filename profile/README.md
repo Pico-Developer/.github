@@ -19,39 +19,34 @@ For more information, visit the [PICO Developer Platform](https://developer.pico
     <tbody>
         <tr>
             <td rowspan=1>Unity</td>
-            <td><a href="https://developer-global.pico-interactive.com/sdk?deviceId=1&platformId=1&itemId=12">PICO Unity Integration SDK</a></td>
+            <td><a href="https://developer-global.pico-interactive.com/resources/#sdk">PICO Unity Integration SDK</a></td>
             <td><a href="https://developer-global.pico-interactive.com/document/unity">Documentation</a></td>
             <td>
-                <ul>
-                    <li><a href="https://pdocor.pico-interactive.com/reference/unity/xr/2.05/">XR</a></li>
-                    <li><a href="https://pdocor.pico-interactive.com/reference/unity/platform/1.0/">Platform</a></li>
-                </ul>
+                <a href="https://developer-global.pico-interactive.com/reference/unity/latest/">API reference</a></td>
             </td>
         </tr>
         <tr>
-            <td rowspan=1>Unreal</td>
-            <td><a href="https://developer-global.pico-interactive.com/sdk?deviceId=1&platformId=2&itemId=13">PICO Unreal Integration SDK</a></td>
+            <td rowspan=2>Unreal</td>
+            <td><a href="https://developer-global.pico-interactive.com/resources/#sdk">PICO Unreal Integration SDK</a></td>
             <td><a href="https://developer-global.pico-interactive.com/document/unreal">Documentation</a></td>
+            <td>/</td>
+        </tr>
+        <tr>
+            <td><a href="https://developer-global.pico-interactive.com/docs/native/en/13158/openxr-mobile-sdk-overview/#introduction-to-openxr">PICO Unreal OpenXR Plugin</a></td>
             <td>
-                <ul>
-                    <li><a href="https://pdocor.pico-interactive.com/reference/unreal/xr/12832/240774/">XR</a></li>
-                    <li><a href="https://pdocor.pico-interactive.com/reference/unreal/platform/1.0/">Platform</a></li>
-                </ul>
+                <a href="https://developer-global.pico-interactive.com/document/unreal-openxr/">Documentation</a>
             </td>
         </tr>
         <tr>
             <td rowspan=2>Native</td>
-            <td><a href="https://developer-global.pico-interactive.com/sdk?deviceId=1&platformId=3&itemId=11">OpenXR Mobile SDK</a></td>
-            <td><a href="https://developer-global.pico-interactive.com/docs/native/en/13158/openxr-mobile-sdk-overview/#introduction-to-openxr">Documentation</a></td>
+            <td><a href="https://developer-global.pico-interactive.com/resources/#sdk">PICO OpenXR SDK</a></td>
+            <td><a href="https://developer-global.pico-interactive.com/document/native/">Documentation</a></td>
             <td>/</td>
         </tr>
         <tr>
             <td><a href="https://developer-global.pico-interactive.com/sdk?deviceId=1&platformId=3&itemId=16">Android Native XR SDK</a></td>
-            <td><a href="https://developer-global.pico-interactive.com/docs/native/en/13158/android-native-xr-quickstart/#overview">Documentation</a></td>
-            <td>
-                <ul>
-                    <li><a href="https://pdocor.pico-interactive.com/reference/native/xr/2.0.1/">API Reference</a></li>
-                </ul>
+            <td>/</td>
+            <td><a href="https://pdocor.pico-interactive.com/reference/native/xr/2.0.1/">API Reference</a>
             </td>
         </tr>
         <tr>
@@ -121,8 +116,8 @@ The **Get Started** sample sets you up to create a basic scene using the PICO Un
 
 | Name  | Version    |
 | ----  |  ----      |
-| Unreal Engine | 4.24-4.27 |
-| PICO Unreal Integration SDK | ≥2.0.5 |
+| Unreal Engine | 4.27 |
+| PICO Unreal Integration SDK | ≥2.3.0 |
 
 Access samples [here](https://github.com/Pico-Developer/Getstarted-Unreal).
 
